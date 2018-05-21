@@ -1,4 +1,4 @@
 int main(){
-	printf("adio");
+	printf("sup bro");
 	return 0;
 }
