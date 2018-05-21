@@ -1,4 +1,4 @@
 int main(){
-	printf("wenas");
+	printf("adio");
 	return 0;
 }
