@@ -1,3 +1,4 @@
 int main(){
-	// hola amigos eee
+	printf("wenas");
+	return 0;
 }
